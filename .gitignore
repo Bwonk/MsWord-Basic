@@ -4,7 +4,7 @@
 *.userosscache
 *.sln.docstates
 
-bin/
+bin/Debug/net8.0-windows
 obj/
 *.dll
 *.exe
